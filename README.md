@@ -1,6 +1,9 @@
 # NMR_OTOC
 Quantum NMR Spectroscopy for Molecular Structure Determination,OTOCs measure information scrambling in quantum systems
 
+#Presentation
+https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-jWxNCmEImoXWziUgBQs_qN1FZ01pLjVOq4FR5NQ?e=ZOUrSx
+
 ## Setup Instructions
 
 1. Create a Python virtual environment:
