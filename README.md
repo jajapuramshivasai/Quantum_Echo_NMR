@@ -72,6 +72,9 @@ This project is developed for the IBM Qiskit Fall Fest Hackathon 2025 at IIT Roo
 ---
 
 **Team:** Heterotic
+
 **Author** Jajapuram Shiva Sai 
+
 **Event:** IBM Qiskit Fall Fest Hackathon 2025  
+
 **Institution:** IIT Roorkee
