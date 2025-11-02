@@ -45,10 +45,12 @@ https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-
 
 ## Running the Notebook
 
-Open and run [ONE.ipynb](http://_vscodecontentref_/0) to explore:
+Open and run [Main.ipynb](Main.ipynb) to explore:
 - H2 (water-like) molecules
 - H3 ring (ammonia-like) molecules  
 - H6 ring (benzene-like) molecules
+
+**View online:** [NBViewer](https://nbviewer.org/github/jajapuramshivasai/Quantum_Echo_NMR/blob/main/Main.ipynb)
 
 Each system includes:
 - 3D structure visualization
