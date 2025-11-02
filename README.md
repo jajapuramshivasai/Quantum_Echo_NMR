@@ -21,6 +21,21 @@ https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-
 - **3D molecular visualization** with coupling matrices
 - **JSON serialization** for reproducibility
 
+## Running the Notebook
+
+Open and run [Main.ipynb](Main.ipynb) to explore:
+- H2 (water-like) molecules
+- H3 ring (ammonia-like) molecules  
+- H6 ring (benzene-like) molecules
+
+**View online:** [NBViewer](https://nbviewer.org/github/jajapuramshivasai/Quantum_Echo_NMR/blob/main/Main.ipynb)
+
+Each system includes:
+- 3D structure visualization
+- Dipolar coupling network graphs
+- LE/OTOC time traces
+- Amplitude and power spectra with peak detection
+
 ## Setup Instructions
 
 1. Create a Python virtual environment:
@@ -42,21 +57,6 @@ https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-
     ```bash
     pip install -r requirements.txt
     ```
-
-## Running the Notebook
-
-Open and run [Main.ipynb](Main.ipynb) to explore:
-- H2 (water-like) molecules
-- H3 ring (ammonia-like) molecules  
-- H6 ring (benzene-like) molecules
-
-**View online:** [NBViewer](https://nbviewer.org/github/jajapuramshivasai/Quantum_Echo_NMR/blob/main/Main.ipynb)
-
-Each system includes:
-- 3D structure visualization
-- Dipolar coupling network graphs
-- LE/OTOC time traces
-- Amplitude and power spectra with peak detection
 
 ## References
 
