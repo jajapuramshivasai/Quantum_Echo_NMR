@@ -1,0 +1,9 @@
+qiskit
+qiskit-aer
+numpy
+scipy
+matplotlib
+pylatexenc
+seaborn
+ipykernel
+pandas
