@@ -10,7 +10,7 @@ This project explores quantum simulation of nuclear magnetic resonance (NMR) dyn
 OTOCs (Out-of-Time-Order Correlators) measure information scrambling in quantum systems, providing unique insights into molecular geometry through dipolar-coupled spin dynamics. This implementation demonstrates forward–butterfly–reverse echo protocols on hydrogen networks (H2, H3 ring, H6 ring) in partially ordered media.
 
 ## Presentation
-- **Slides:** [View Presentation](https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-jWxNCmEImoXWziUgBQs_qN1FZ01pLjVOq4FR5NQ?e=ZOUrSx)
+- **Slides:** [View Presentation](https://iitracin-my.sharepoint.com/:p:/g/personal/shiva_sj_ph_iitr_ac_in/ERkhWe-jWxNCmEImoXWziUgBUOuf1siH2w-72dLfArZW5Q)
 - **Technical Report:** [Read Report](https://jajapuramshivasai.github.io/Quantum_Echo_NMR/)
 
 ## Key Features
